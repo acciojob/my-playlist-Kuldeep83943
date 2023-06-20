@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+
+
+.txtcenter{
+	text-align:center;
+}
+
+.player_one{
+	border:1px solid black;
+	border-radius:8px;
+	background-color:white;
+	padding:15px;
+}
+
+.decoration{
+	text-decoration:none;
+}
+
+.player_two{
+	border:1px solid black;
+	border-radius:4px;
+	background-color:white;
+	padding:10px;
+	margin-left:110px;
+	margin-right:110px;
+}
+
+
+
+
